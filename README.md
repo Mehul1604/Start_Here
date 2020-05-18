@@ -4,7 +4,7 @@ This is a Hackathon with absolutely no prerequistises apart from basic coding sk
 ## Theme
 The theme is "Life @ IIIT-H" and it reflects everything about IIIT! Feel free to make a software to optimize cab sharing, or to track debts in JC, a Tinder to find roommates or anything interesting! The important thing to realize is how you can use any language to build cool things to solve real world problems. You can use basic skills to build clever solutions like:
 <ul>
-  <li> A graph-based solution to optimize debts like splitwise, but accounting for internships/GSOC/DASA to make them pay more.</li>
+  <li> A graph-based solution to optimize debts like splitwise, but accounting for internships/GSOC/DASA to make them pay more :pp.</li>
   <li> An OJ test-case generator, but generalized for any parameter. </li>
 </ul>
 These are just examples of the numerous ideas you can build upon. The goal is to enjoy and learn in the process, and then give and recieve feedback from the other teams.
