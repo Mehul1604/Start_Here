@@ -6,7 +6,7 @@ The theme is "Life @ IIIT-H" and it reflects everything about IIIT! Feel free to
 <ul>
   <li> A graph-based solution to optimize debts like splitwise, but accounting for internships/GSOC/DASA to make them pay more.</li>
   <li> An OJ test-case generator, but generalized for any parameter. </li>
-<ul>
+</ul>
 These are just examples of the numerous ideas you can build upon. The goal is to enjoy and learn in the process, and then give and recieve feedback from the other teams.
   
 ## Team
